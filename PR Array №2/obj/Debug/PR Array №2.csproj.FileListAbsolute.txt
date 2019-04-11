@@ -1,0 +1,7 @@
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\bin\Debug\PR Array №2.exe.config
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\bin\Debug\PR Array №2.exe
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\bin\Debug\PR Array №2.pdb
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\obj\Debug\PR Array №2.csprojAssemblyReference.cache
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\obj\Debug\PR Array №2.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\obj\Debug\PR Array №2.exe
+C:\Users\murka\source\repos\PR Array №2\PR Array №2\obj\Debug\PR Array №2.pdb
